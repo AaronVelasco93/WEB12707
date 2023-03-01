@@ -1,0 +1,30 @@
+.fondoverde{
+    background-color: #77dd77;
+}
+
+.parrafoSec1{
+ margin-bottom: 0px;
+
+}
+
+.parrafoSec2{
+   
+   }
+.sectionPrimaria{
+    text-align: justify;
+    font-size: 18px;
+    background-color: aquamarine;
+    margin-top: 80px;
+    margin-bottom: 0px;
+    
+   
+}
+
+.sectionSecundaria{
+    text-align: left;
+    font-size: 10px;
+    color: aquamarine;
+    border: 2px solid red ;
+    margin-top: 0;
+
+}
