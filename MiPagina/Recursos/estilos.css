@@ -1,0 +1,46 @@
+@font-face {
+    font-family: FuenteAaron;
+    src: url(Fuentes/YoungMoney.otf);
+}
+
+
+@font-face {
+    font-family: Send_Box;
+    src: url(Fuentes/Send\ Box.otf);
+}
+
+body{
+    background-color: #eb636b;
+    padding: 4em;
+    font-family: serif;
+}
+
+.fondoblanco{
+    background-color: rgba(17, 70, 161, 0.557);
+
+}
+.bordeblanco{
+    border: 20px solid red;
+    border-radius: 15px;
+}
+
+.imagenEstilo{
+    width: 100px;
+    text-align: center;
+}
+
+.textoFooter{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top:1em;
+    padding-bottom: 1em;
+    border-radius: 5px 5px 0px 0px;
+
+}
+
+.parrafoFooter{
+   margin: 0px;
+   font-size: 20px;
+   font-family:'FuenteAaron' ;
+}
